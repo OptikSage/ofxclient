@@ -19,7 +19,8 @@ import uuid
 DEFAULT_APP_ID = 'QWIN'
 DEFAULT_APP_VERSION = '2500'
 DEFAULT_OFX_VERSION = '102'
-DEFAULT_USER_AGENT = 'httpclient'
+DEFAULT_USER_AGENT = False
+# DEFAULT_USER_AGENT = 'httpclient'
 DEFAULT_ACCEPT = '*/*, application/x-ofx'
 
 LINE_ENDING = "\r\n"
